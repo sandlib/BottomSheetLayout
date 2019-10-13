@@ -15,7 +15,7 @@ Add this to your app build.gradle
 ```
 dependencies {
     ...
-    implementation 'com.qhutch.bottomsheetlayout:bottomsheetlayout:0.1.9'
+    implementation 'com.github.sandlib:BottomSheetLayout:Tag'
 }
 ```
 
@@ -106,8 +106,7 @@ progress is 0 when collapsed and 1 when expanded
 
 Pull requests are more than welcome.
 
-- **Email**: quentin.menini.us@gmail.com
-- **Medium**: https://medium.com/@qhutch
+- **Email**: sandeepduttacse45@gmail.com
 
 
 # License
@@ -123,4 +122,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
+
+
 ```
