@@ -15,7 +15,7 @@ Add this to your app build.gradle
 ```
 dependencies {
     ...
-    implementation 'com.github.sandlib:BottomSheetLayout:Tag'
+    implementation 'com.github.sandlib:BottomSheetLayout:1.0.0'
 }
 ```
 
