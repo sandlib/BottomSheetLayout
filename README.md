@@ -106,7 +106,7 @@ progress is 0 when collapsed and 1 when expanded
 
 Pull requests are more than welcome.
 
-- **Email**: sandeepduttacse45@gmail.com
+- **Email**: sandeepduttacse34@gmail.com
 
 
 # License
